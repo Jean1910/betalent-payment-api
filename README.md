@@ -17,5 +17,5 @@ Esta API foi desenvolvida para o desafio técnico da BeTalent. O sistema gere tr
 ## ⚙️ Como Configurar o Projeto
 
 1. **Instalar dependências:**
-   bash
+   ```bash
    npm install
